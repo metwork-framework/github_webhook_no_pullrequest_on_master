@@ -1,12 +1,19 @@
-<a name="unreleased"></a>
+# CHANGELOG
+
+
 ## [Unreleased]
 
-### Feat
-- add repository hook support
-- first import
+### New Features
 - pr editing support
+- add repository hook support
 - remove requirements3.txt and update .gitignore
+- first import
 
-### Fix
+
+### Bug Fixes
 - missing files
+
+
+
+
 
